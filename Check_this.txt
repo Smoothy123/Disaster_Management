@@ -1,0 +1,11 @@
+SIH 2024
+So this project is based on before , during and after disaster management.
+I have connected OpenWeather app API so kindly use that API  
+before - Sends alert messages
+during - we can ask help from nearby police station
+after - shows precaution . Volunteering and donating page 
+ 
+
+Make sure to replace with your own "API Key" 
+
+I will be deactivating my "API" key shortly .
