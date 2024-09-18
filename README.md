@@ -11,5 +11,5 @@ after - shows precaution . Volunteering and donating page
 Make sure to replace with your own "API Key" 
 
 I will be deactivating my "API" key shortly .
-
+ 
 Run it in Android studio :) 
